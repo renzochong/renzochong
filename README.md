@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renzochong
 - 👀 I’m interested in prgraming and database
-- 🌱 I’m currently learning Python, C++, C, SQL, Java
+- 🌱 I’m currently learning Python, C++, C, SQL, JS, C#
 - 💞️ I’m looking to collaborate on anything I can
 - 📫 How to reach me send a message or leave a comment
 
