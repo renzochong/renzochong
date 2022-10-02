@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Renzo
 - 👀 I’m interested in prgraming and databases
-- 🌱 I’m currently learning Python, C++, C, SQL, JS, C#
+- 🌱 Languages I've learned: Python, C++, C, SQL, JS, C#, Java, HTML5, CSS
 - 💞️ I’m looking to collaborate on anything I can
 - 📫 How to reach me send a message or leave a comment
 
